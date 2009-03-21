@@ -1,0 +1,10 @@
+Blender Assisted Design (BAD) is a helper script to make precision modeling
+easier with Blender.
+
+To install simply copy (or link) the bad/ directory to ~/.blender/scripts/
+directory. After that BAD will appear in Blender under Scripts->Mesh menu.
+
+After starting BAD you may want to also enable BAD space handler for your
+3D view from View->Space Handler Scripts->BAD . This enables you to get quick
+access to BAD features by pressing the 0 (zero) key on your keyboard.
+
